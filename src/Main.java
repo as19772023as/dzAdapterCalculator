@@ -18,6 +18,5 @@ public class Main {
         System.out.println(calc.sum(500, 500));
         System.out.println(calc.div(500, 500));
 
-
     }
 }
